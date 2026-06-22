@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# env
+.env.local
+.env*.local
+.env.test
+
+# drizzle
+drizzle/meta/
+
+# misc
+.DS_Store
+*.pem
