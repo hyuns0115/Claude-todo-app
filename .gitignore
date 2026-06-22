@@ -16,3 +16,6 @@ drizzle/meta/
 # misc
 .DS_Store
 *.pem
+
+# claude code
+.claude/
